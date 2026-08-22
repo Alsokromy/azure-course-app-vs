@@ -7,6 +7,7 @@ namespace azure_course_app_vs.Pages
     {
         public void OnGet()
         {
+            throw new Exception("Testing Insights!!!");
         }
     }
 
